@@ -1,0 +1,28 @@
+.border1{
+    width: 100%;
+    padding: 15px;
+    background-color: #12486B;
+    color: #F5FCCD;
+}
+
+.border2{
+    width: 100%;
+    padding: 15px;;
+    background-color: #419197;
+    color: #F5FCCD;
+}
+
+.Image{
+    position: relative;;
+    width: 100%;
+    padding: 15px;
+    left: 70%;
+}
+
+.Text{
+    position: absolute;
+    width: 100%;
+    padding: 15px;
+    background-color: #78D6C6;
+    color: black;
+}
